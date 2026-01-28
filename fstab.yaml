@@ -1,5 +1,5 @@
 mountpoints:
   /:
     url: https://dita-franklin-worker.adobeaem.workers.dev/ajay28kumar/aem-edge-service/main/docs
-    type: raw
+    type: markup
 
